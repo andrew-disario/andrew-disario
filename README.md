@@ -9,7 +9,7 @@
   - Languages and libraries used:
   - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Congress Age Demographics Analysis</b>
+- <b>"Is Congress Getting Older?"</b>
   - Description of project
   - Languages and libraries used:
   - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -19,11 +19,11 @@
   - Languages and libraries used:
   - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Alcohol v Marijuana Effects Analysis</b>
+- <b>Effects of Alcohol and Marijuana Study</b>
   - Description of project
   - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Heads or Tails</b>
+- <b>"Heads or Tails"</b>
   - Description of project
   - Languages and libraries used:
   - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
