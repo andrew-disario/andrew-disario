@@ -1,6 +1,7 @@
 <h1>Andrew DiSario <br/>
 <a href="https://www.linkedin.com/in/andrew-disario/">Data Analyst</a>
 
+
 <h2>💻 Data Science Projects:</h2>
 
 - <b>Anomaly Detection Model</b>
@@ -14,6 +15,7 @@
 - <b>Heads or Tails</b>
   - [Project link)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+
 <h2>🏆 Certifications and Credentials</h2>
 
 - [Databricks Academy - Lakehouse Fundamentals](https://credentials.databricks.com/e222513d-37e7-47f3-af43-9b12641fdea7)
@@ -24,6 +26,7 @@
 - [Kaggle - Pandas](https://www.kaggle.com/learn/certification/drewdisario/pandas)
 - [Kaggle - Machine Learning](https://www.kaggle.com/learn/certification/drewdisario/intro-to-machine-learning)
 
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -31,8 +34,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/@drewdisario
 [instagram]: https://www.instagram.com/drewdisario/
 [linkedin]: https://www.linkedin.com/in/andrew-disario/
 
