@@ -5,16 +5,25 @@
 <h2>💻 Data Science Projects:</h2>
 
 - <b>Anomaly Detection Model</b>
+  - Description of project
+  - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Congress Age Demographics Analysis</b>
-  - [Project link](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - Description of project
+  - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Fourier Transformation</b>
-  - [Project link](https://github.com/joshmadakor1/Sentinel-Lab)
+  - Description of project
+  - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Alcohol v Marijuana Effects Analysis</b>
-  - [Project link](https://github.com/joshmadakor1/EncrypterPOC)
+  - Description of project
+  - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Heads or Tails</b>
-  - [Project link)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - Description of project
+  - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>🏆 Certifications and Credentials</h2>
 
