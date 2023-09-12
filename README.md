@@ -5,29 +5,15 @@
 <h2>💻 Data Science Projects:</h2>
 
 - <b>Anomaly Detection Model</b>
-  - Description of project
-  - Languages and libraries used:
-  - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Project consists of data observability tools that apply machine learning to identify unexpected changes in a dataset. In this instance, New York City taxi data was utilized to identify anomalies in fare prices given datetime values while accounting for daily and weekly trends (monthly and yearly trends were not applicable in this analysis but can be accounted for). However, generalized variable identification has been used so that data can be pathed in, independent and dependent variables can be identified and a changepoint can be set. When run, the model will output a table of anomalies and a visual plot with anomalies highlighted.
+  - Languages and libraries used: Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet
+  - [Readme](https://github.com/andrew-disario/anomaly-detction-model/blob/main/README.md)
+  - [Code](https://github.com/andrew-disario/anomaly-detction-model/blob/main/Project%2059%20-%20Generalized%20Anomaly%20Detection%20Model.ipynb)
+  - [nyc_taxi.csv](https://github.com/andrew-disario/anomaly-detction-model/blob/main/nyc_taxi.csv)
 - <b>"Is Congress Getting Older?"</b>
-  - Description of project
-  - Languages and libraries used:
-  - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Fourier Transformation</b>
-  - Description of project
-  - Languages and libraries used:
-  - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Effects of Alcohol and Marijuana Study</b>
-  - Description of project
-  - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>"Heads or Tails"</b>
-  - Description of project
-  - Languages and libraries used:
-  - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>🏆 Certifications and Credentials</h2>
 
