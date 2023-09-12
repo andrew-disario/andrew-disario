@@ -34,7 +34,7 @@
 - [Databricks Academy - Lakehouse Fundamentals](https://credentials.databricks.com/e222513d-37e7-47f3-af43-9b12641fdea7)
 - [Udemy - SQL](https://www.udemy.com/certificate/UC-3a42f5f2-3b30-47dc-a05a-efee049712af/)
 - [Udemy - Data Science](https://www.udemy.com/certificate/UC-a9623e85-b4af-4fde-addf-98dfe062ee55/)
-- [Udemy - Data Looker and Look ML](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Udemy - Data Looker and Look ML](https://www.udemy.com/certificate/UC-0190f1b7-1a93-4fba-82c7-6e48a5a227b2/)
 - [Kaggle - Python](https://www.kaggle.com/learn/certification/drewdisario/python)
 - [Kaggle - Pandas](https://www.kaggle.com/learn/certification/drewdisario/pandas)
 - [Kaggle - Machine Learning](https://www.kaggle.com/learn/certification/drewdisario/intro-to-machine-learning)
