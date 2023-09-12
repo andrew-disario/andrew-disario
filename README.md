@@ -15,7 +15,7 @@
 - <b>Effects of Alcohol and Marijuana Study</b>
 - <b>"Heads or Tails"</b>
 
-<h2>🏆 Certifications and Credentials</h2>
+<h2>🏆 Certifications and Credentials:</h2>
 
 - [Databricks Academy - Lakehouse Fundamentals](https://credentials.databricks.com/e222513d-37e7-47f3-af43-9b12641fdea7)
 - [Udemy - SQL](https://www.udemy.com/certificate/UC-3a42f5f2-3b30-47dc-a05a-efee049712af/)
