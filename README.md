@@ -6,14 +6,17 @@
 
 - <b>Anomaly Detection Model</b>
   - Description of project
+  - Languages and libraries used:
   - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Congress Age Demographics Analysis</b>
   - Description of project
+  - Languages and libraries used:
   - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Fourier Transformation</b>
   - Description of project
+  - Languages and libraries used:
   - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Alcohol v Marijuana Effects Analysis</b>
@@ -22,6 +25,7 @@
   - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Heads or Tails</b>
   - Description of project
+  - Languages and libraries used:
   - [Readme file](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Project link](https://github.com/joshmadakor1/Algorithms-Practice)
 
