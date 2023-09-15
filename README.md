@@ -6,10 +6,10 @@
 
 - <b>[Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/)</b>
   - Project consists of data observability tools that apply machine learning to identify unexpected changes in a dataset.
-  - Languages and libraries used: Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet
+  - Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet
 - <b>["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)</b>
   - Study utilizes modelling and analysis tools to idenitfy patterns in trends regarding age demographics from the 80th to the 113th congress.
-  - Languages and libraries used: Python, Pandas and Matplotlib
+  - Python, Pandas and Matplotlib
 - <b>[Fourier Transformation](https://github.com/andrew-disario/fourier-transformation)</b>
 - <b>[Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)</b>
 - <b>["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails)</b>
