@@ -11,6 +11,10 @@
     - When run, the model will output a table of anomalies and a visual plot with anomalies highlighted.
   - Languages and libraries used: Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet
 - <b>["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)</b>
+  - Study utilizes modelling and analysis tools to idenitfy patterns in trends regarding age demographics from the 80th to the 113th congress.
+    - Data was obtained from githubusercontent.com and consists of data from Congress as well as the House of Representatives.
+    - When run, the average age of each body for each year is calculated and modelled with a line plot.
+  - Languages and libraries used: Python, Pandas and Matplotlib
 - <b>[Fourier Transformation](https://github.com/andrew-disario/fourier-transformation)</b>
 - <b>[Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)</b>
 - <b>["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails)</b>
