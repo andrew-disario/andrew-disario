@@ -20,6 +20,8 @@
   - In this project, an application was developed that would allow two players to play a game in which each player takes turns calling whether a coin toss will result in a heads or tails where the winner is determined after a certain number of rounds.
   - Python
 - <b>[Data Visualization](https://github.com/andrew-disario/data-visualization)</b>
+  - In this study, population trends in the United States and China were tracked and modelled over time from 1952 to 2007, ever five years.
+  - Python, Pandas and Matplotlib
 
 <h2>🏆 Certifications and Credentials:</h2>
 
