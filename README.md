@@ -12,8 +12,9 @@
   - Languages and libraries used: Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet
 - <b>"Is Congress Getting Older?"</b>
 - <b>Fourier Transformation</b>
-- <b>Effects of Alcohol and Marijuana Study</b>
+- <b>Alcohol and Marijuana Study</b>
 - <b>"Heads or Tails"</b>
+- <b>Data Visualization</b>
 
 <h2>🏆 Certifications and Credentials:</h2>
 
