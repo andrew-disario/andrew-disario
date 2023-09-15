@@ -11,6 +11,8 @@
   - Study utilizes modelling and analysis tools to idenitfy patterns in trends regarding age demographics from the 80th to the 113th congress.
   - Python, Pandas and Matplotlib
 - <b>[Fourier Transformation](https://github.com/andrew-disario/fourier-transformation)</b>
+  - In this project, the Fourier Transform is utilized to reconstruct an image using only sine functions via python and data modelling.
+  - Python, Pandas and Matplotlib
 - <b>[Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)</b>
 - <b>["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails)</b>
 - <b>[Data Visualization](https://github.com/andrew-disario/data-visualization)</b>
