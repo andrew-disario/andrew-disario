@@ -10,11 +10,11 @@
     - However, generalized variable identification has been used so that data can be pathed in, independent and dependent variables can be identified and a changepoint can be set.
     - When run, the model will output a table of anomalies and a visual plot with anomalies highlighted.
   - Languages and libraries used: Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet
-- <b>"Is Congress Getting Older?"</b>
-- <b>Fourier Transformation</b>
-- <b>Alcohol and Marijuana Study</b>
-- <b>"Heads or Tails"</b>
-- <b>Data Visualization</b>
+- <b>["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)</b>
+- <b>[Fourier Transformation](https://github.com/andrew-disario/fourier-transformation)</b>
+- <b>[Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)</b>
+- <b>["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails)</b>
+- <b>[Data Visualization](https://github.com/andrew-disario/data-visualization)</b>
 
 <h2>🏆 Certifications and Credentials:</h2>
 
