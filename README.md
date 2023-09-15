@@ -5,16 +5,16 @@
 <h2>💻 Data Science Projects:</h2>
 
 - <b>[Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/)</b>
-  - Project consists of data observability tools that apply machine learning to identify unexpected changes in a dataset.
+  - This project consists of data observability tools that apply machine learning to identify unexpected changes in a dataset.
   - Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet
 - <b>["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)</b>
-  - Study utilizes modelling and analysis tools to idenitfy patterns in trends regarding age demographics from the 80th to the 113th congress.
+  - This study utilizes modelling and analysis tools to idenitfy patterns in trends regarding age demographics from the 80th to the 113th congress.
   - Python, Pandas and Matplotlib
 - <b>[Fourier Transformation](https://github.com/andrew-disario/fourier-transformation)</b>
   - In this project, the Fourier Transform is utilized to reconstruct an image using only sine functions via python and data modelling.
   - Python, Pandas and Matplotlib
 - <b>[Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)</b>
-  - Study looks at alcohol and marijuana use and frequency factors as related to age demographics in data obtained from githubusercontent.com.
+  - This study looks at alcohol and marijuana use and frequency factors as related to age demographics in data obtained from githubusercontent.com.
   - Python, Pandas and Matplotlib
 - <b>["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails)</b>
   - In this project, an application was developed that would allow two players to play a game in which each player takes turns calling whether a coin toss will result in a heads or tails where the winner is determined after a certain number of rounds.
