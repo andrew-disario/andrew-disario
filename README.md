@@ -14,6 +14,8 @@
   - In this project, the Fourier Transform is utilized to reconstruct an image using only sine functions via python and data modelling.
   - Python, Pandas and Matplotlib
 - <b>[Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)</b>
+  - Study looks at alcohol and marijuana use and frequency factors as related to age demographics in data obtained from githubusercontent.com.
+  - Python, Pandas and Matplotlib
 - <b>["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails)</b>
 - <b>[Data Visualization](https://github.com/andrew-disario/data-visualization)</b>
 
