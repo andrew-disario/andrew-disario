@@ -5,7 +5,7 @@
 <h2>💻 Data Science Projects:</h2>
 
 - <b>[Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/)</b>
-  - This project consists of data observability tools that apply machine learning to identify unexpected changes in a dataset.
+  - This project uses data observability tools that apply machine learning to identify unexpected changes in a dataset.
   - Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet
 - <b>["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)</b>
   - This study utilizes modelling and analysis tools to identify patterns in trends regarding age demographics from the 80th to the 113th congress.
