@@ -2,28 +2,23 @@
 <a href="https://www.linkedin.com/in/andrew-disario/">Data Analyst</a>
 
 
-<h2>💻 Data Science Projects:</h2>
+<h2>💻 Data Science Projects </h2>
 
 - <b>[Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/)</b>
   - This project uses data observability tools that apply machine learning to identify unexpected changes in a dataset.
-  - Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet
 - <b>["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)</b>
   - This study utilizes modelling and analysis tools to identify patterns in trends regarding age demographics from the 80th to the 113th congress.
-  - Python, Pandas and Matplotlib
 - <b>[Fourier Transformation](https://github.com/andrew-disario/fourier-transformation)</b>
   - In this project, the Fourier Transform is utilized to reconstruct an image using only sine functions via python and data modelling.
-  - Python, Pandas and Matplotlib
 - <b>[Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)</b>
   - This study looks at alcohol and marijuana use and frequency factors as related to age demographics in a dataset.
-  - Python, Pandas and Matplotlib
 - <b>[Data Visualization](https://github.com/andrew-disario/data-visualization)</b>
   - In this study, population trends in the United States and China were tracked and modelled over time from 1952 to 2007 every five years.
-  - Python, Pandas and Matplotlib
 - <b>["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails)</b>
   - In this project, an application was developed that would allow two players to play a game in which each player takes turns predicting the outcome of a coin toss where, after a certain number of rounds, a winner or a tie is determined.
-  - Python
 
-<h2>🏆 Certifications and Credentials:</h2>
+
+<h2>🏆 Certifications and Credentials </h2>
 
 - <b> Databricks Academy </b>
   - [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/e222513d-37e7-47f3-af43-9b12641fdea7)
@@ -37,9 +32,17 @@
   - [Python](https://www.kaggle.com/learn/certification/drewdisario/python)
   
 
+<h2>🎓 Proficiencies </h2>
 
+- <b> Languages </b>
+  - Python, SQL, LookML, Git
+- <b> Libraries </b>
+  - PySpark, SQLAlchemy, Prophet, FBProphet, Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Plotly, Apache Airflow
+- <b> Applications </b>
+  - Databricks, Snowflake, Airflow, Looker, Jupyter, GitHub, Jira, Asana
+ 
 
-<h2> 📱 Connect with me:</h2>
+<h2>📱 Connect with me </h2>
 
 [<img align="left" alt="Andrew DiSario | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Andrew DiSario | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
