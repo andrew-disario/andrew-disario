@@ -16,12 +16,12 @@
 - <b>[Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)</b>
   - This study looks at alcohol and marijuana use and frequency factors as related to age demographics in a dataset.
   - Python, Pandas and Matplotlib
-- <b>["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails)</b>
-  - In this project, an application was developed that would allow two players to play a game in which each player takes turns predicting the outcome of a coin toss where, after a certain number of rounds, a winner or a tie is determined.
-  - Python
 - <b>[Data Visualization](https://github.com/andrew-disario/data-visualization)</b>
   - In this study, population trends in the United States and China were tracked and modelled over time from 1952 to 2007 every five years.
   - Python, Pandas and Matplotlib
+- <b>["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails)</b>
+  - In this project, an application was developed that would allow two players to play a game in which each player takes turns predicting the outcome of a coin toss where, after a certain number of rounds, a winner or a tie is determined.
+  - Python
 
 <h2>🏆 Certifications and Credentials:</h2>
 
