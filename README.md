@@ -7,11 +7,11 @@
 
 
 <b>[Docker Database](https://github.com/andrew-disario/docker-database)</b>
-- In this project, we set up and run a MySQL database using Docker and MySQL Workbench.  </b>
+- Set up and run a MySQL database using Docker and MySQL Workbench.  </b>
 - Uses Docker, MySQL Workbench, SQL, and Terminal commands
 
 <b>[SQL with Python](https://github.com/andrew-disario/sql-with-python)</b>
-- In this project, we work with database tables using Python, Pandas and SQL.
+- Work with database tables using Python, Pandas and SQL.
 - Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy
 
 <b>Archived Projects:</b>
