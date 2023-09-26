@@ -2,25 +2,17 @@
 <a href="https://www.linkedin.com/in/andrew-disario/">Data Analyst</a>
 
 
+
 <h2>💻 Data Science Projects </h2>
 
 
 <b>[Docker Database](https://github.com/andrew-disario/docker-database)</b>
 - In this project, we set up and run a MySQL database using Docker and MySQL Workbench.  </b>
-  - Docker
-  - MySQL Workbench
-  - SQL
-  - Terminal commands
+- Uses Docker, MySQL Workbench, SQL, and Terminal commands
 
 <b>[SQL with Python](https://github.com/andrew-disario/sql-with-python)</b>
 - In this project, we work with database tables using Python, Pandas and SQL.
-  - Docker
-  - MySQL Workbench
-  - SQL
-  - Jupyter Notebooks
-  - Python
-  - Pandas
-  - SQLAlchemy
+- Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy
 
 <b>Archived Projects:</b>
 - [Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/) 
@@ -31,29 +23,33 @@
 - ["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails) 
 
 
+
 <h2>🏆 Certifications and Credentials </h2>
 
-- <b> Databricks Academy </b>
-  - [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/e222513d-37e7-47f3-af43-9b12641fdea7)
-- <b> Udemy </b>
-  - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/certificate/UC-3a42f5f2-3b30-47dc-a05a-efee049712af/)
-  - [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/certificate/UC-a9623e85-b4af-4fde-addf-98dfe062ee55/)
-  - [Looker and LookML - The Complete Course](https://www.udemy.com/certificate/UC-0190f1b7-1a93-4fba-82c7-6e48a5a227b2/)
-- <b> Kaggle </b>
-  - [Machine Learning](https://www.kaggle.com/learn/certification/drewdisario/intro-to-machine-learning)
-  - [Pandas](https://www.kaggle.com/learn/certification/drewdisario/pandas)
-  - [Python](https://www.kaggle.com/learn/certification/drewdisario/python)
+<b> Databricks Academy </b>
+- [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/e222513d-37e7-47f3-af43-9b12641fdea7)
+
+<b> Udemy </b>
+- [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/certificate/UC-3a42f5f2-3b30-47dc-a05a-efee049712af/)
+- [The Data Science Course: Complete Data Science Bootcamp](https://www.udemy.com/certificate/UC-a9623e85-b4af-4fde-addf-98dfe062ee55/)
+- [Looker and LookML - The Complete Course](https://www.udemy.com/certificate/UC-0190f1b7-1a93-4fba-82c7-6e48a5a227b2/)
+
+<b> Kaggle </b>
+- [Machine Learning](https://www.kaggle.com/learn/certification/drewdisario/intro-to-machine-learning)
+- [Pandas](https://www.kaggle.com/learn/certification/drewdisario/pandas)
+- [Python](https://www.kaggle.com/learn/certification/drewdisario/python)
   
+
 
 <h2>🎓 Proficiencies </h2>
 
-- <b> Languages </b>
-  - Python, SQL, LookML, Git
-- <b> Libraries </b>
-  - PySpark, SQLAlchemy, Prophet, FBProphet, Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Plotly, Apache Airflow
-- <b> Applications </b>
-  - Databricks, Snowflake, Airflow, Looker, GitHub, Docker, Jupyter, MySQL Workbench, Jira, Asana
+**Languages** Python, SQL, LookML and Git
+
+**Libraries** PySpark, SQLAlchemy, Prophet, FBProphet, Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Plotly and Apache Airflow
+
+**Applications** Databricks, Snowflake, Airflow, Looker, GitHub, Docker, Jupyter, MySQL Workbench, Jira and Asana
  
+
 
 <h2>📱 Connect with me </h2>
 
