@@ -7,10 +7,10 @@
 
 - <b>[Docker Database](https://github.com/andrew-disario/docker-database)</b>
   - In this project, we set up and run a MySQL database using Docker and MySQL Workbench.
-  - Docker, MySQL Workbench, SQL
+  - Uses Docker, MySQL Workbench and SQL
 - <b>[SQL with Python](https://github.com/andrew-disario/sql-with-python)</b>
   - In this project, we work with database tables using Python, Pandas and SQL.
-  - Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas, SQLAlchemy
+  - Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy
 - <b>Archived Projects:</b>
   - [Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/) 
   - ["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)
