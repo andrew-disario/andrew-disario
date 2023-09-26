@@ -4,8 +4,7 @@
 
 <h2>💻 Data Science Projects </h2>
 
-- <b>[Docker Database](https://github.com/andrew-disario/docker-database)</b>
-  - In this project, we set up and run a MySQL database using Docker and MySQL Workbench.
+
 - <b>[Docker Database](https://github.com/andrew-disario/docker-database)</b>
   - In this project, we set up and run a MySQL database using Docker and MySQL Workbench.
 - <b>[SQL with Python](https://github.com/andrew-disario/sql-with-python)</b>
