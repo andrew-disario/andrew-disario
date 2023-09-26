@@ -10,7 +10,13 @@
   - In this project, we set up and run a MySQL database using Docker and MySQL Workbench.
 - <b>[SQL with Python](https://github.com/andrew-disario/sql-with-python)</b>
   - In this project, we work with database tables using Python, Pandas and SQL.
-- <b>Archive: [Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/), ["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older), [Fourier Transformation](https://github.com/andrew-disario/fourier-transformation), [Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study), [Data Visualization](https://github.com/andrew-disario/data-visualization), ["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails)</b>
+- <b>Archived Projects:</b>
+  - [Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/) 
+  - ["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)
+  - [Fourier Transformation](https://github.com/andrew-disario/fourier-transformation) 
+  - [Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)
+  - [Data Visualization](https://github.com/andrew-disario/data-visualization)
+  - ["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails) 
 
 
 <h2>🏆 Certifications and Credentials </h2>
