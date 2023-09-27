@@ -1,8 +1,6 @@
 <h1>Andrew DiSario <br/>
 <a href="https://www.linkedin.com/in/andrew-disario/">Data Analyst</a>
 
-
-
 <h2>💻 Data Science Projects </h2>
 
 <b>[Docker Database](https://github.com/andrew-disario/docker-database)</b>
