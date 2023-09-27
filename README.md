@@ -5,7 +5,7 @@
 
 <b>[Docker Database](https://github.com/andrew-disario/docker-database)</b>
 - Set up and run a MySQL database using Docker Desktop and MySQL Workbench.
-- Uses Docker, MySQL Workbench, SQL, and Terminal commands
+- Uses Docker, MySQL Workbench, and SQL
 
 <b>[SQL with Python](https://github.com/andrew-disario/sql-with-python)</b> 
 - Work with database tables using Python, Pandas and SQL.
