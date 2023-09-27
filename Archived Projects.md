@@ -21,6 +21,6 @@
 - In this study, population trends in the United States and China were tracked and modelled over time from 1952 to 2007 every five years.
 - Uses Jupyter Notebooks, Python, Pandas, and Matplotlib
 
-<b>["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails) </b>
+<b>["Heads or Tails?"](https://github.com/andrew-disario/heads-or-tails) </b>
 - In this project, an application was developed that would allow two players to play a game in which each player takes turns predicting the outcome of a coin toss where, after a certain number of rounds, a winner or a tie is determined.
 - Uses Jupyter Notebooks, Python and Random
