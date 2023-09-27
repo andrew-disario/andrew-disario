@@ -13,11 +13,11 @@
 - Use the Federal Reserve of Economic Data website, Python, Pandas and Matplotlib to analyze the S&P 500.
 - Uses Jupyter Notebooks, Python, Pandas, Matplotlib and Fred
 
-<b>[Docker Database](https://github.com/andrew-disario/docker-database)</b>
+<b>[Set Up a Docker Database](https://github.com/andrew-disario/docker-database)</b>
 - Set up and run a MySQL database using Docker Desktop and MySQL Workbench.
 - Uses Docker, MySQL Workbench, SQL and Bash
 
-<b>[SQL with Python](https://github.com/andrew-disario/sql-with-python)</b> 
+<b>[Use SQLAlchemy to work with Database Tables in Python](https://github.com/andrew-disario/sql-with-python)</b> 
 - Work with database tables using Python, Pandas and SQL.
 - Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy
 
