@@ -17,7 +17,7 @@
 - Fourier Transformation 
 - Alcohol and Marijuana Study
 - Data Visualization
-- "Heads or Tails" 
+- "Heads or Tails?" 
 
 
 
