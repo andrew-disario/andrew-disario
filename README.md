@@ -3,24 +3,24 @@
 
 <h2>💻 Data Science Projects </h2>
 
-<b>[***Anomaly Detection Model***](https://github.com/andrew-disario/sp-500)</b>
+<b>[***"Anomaly Detection Model"***](https://github.com/andrew-disario/sp-500)</b>
 Use data observability tools that apply machine learning to identify unexpected changes in a dataset.
 >Uses Jupyter Notebooks, Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet
 
-<b>[***Project Archive***](https://github.com/andrew-disario/andrew-disario/blob/main/Archived%20Projects.md)</b>
+<b>[**Project Archive**](https://github.com/andrew-disario/andrew-disario/blob/main/Archived%20Projects.md)</b>
 Collection of finished projects and exercises.
 
 <h2>🏫 Data Science Tutorials </h2>
 
-<b>[***Analyze the S&P 500***](https://github.com/andrew-disario/sp-500)</b>
+<b>[***"Analyze the S&P 500"***](https://github.com/andrew-disario/sp-500)</b>
 Use the Federal Reserve of Economic Data website, Python, Pandas and Matplotlib to analyze the S&P 500.
 >Uses Jupyter Notebooks, Python, Pandas, Matplotlib and Fred
 
-<b>[***Docker Database***](https://github.com/andrew-disario/docker-database)</b>
+<b>[***"Docker Database"***](https://github.com/andrew-disario/docker-database)</b>
 Set up and run a MySQL database using Docker Desktop and MySQL Workbench.
 >Uses Docker, MySQL Workbench, SQL and Bash
 
-<b>[***SQL and Python***](https://github.com/andrew-disario/sql-with-python)</b> 
+<b>[***"SQL and Python"***](https://github.com/andrew-disario/sql-with-python)</b> 
 Work with database tables using Python, Pandas and SQL.
 >Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy
 
