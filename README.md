@@ -5,20 +5,15 @@
 
 <h2>💻 Data Science Projects </h2>
 
-<h3><a href="https://github.com/andrew-disario/docker-database">Docker Database</a></h3>  
+<b>[Docker Database](https://github.com/andrew-disario/docker-database)</b>
+- Set up and run a MySQL database using Docker and MySQL Workbench.
+- Uses Docker, MySQL Workbench, SQL, and Terminal commands
 
-<b>Set up and run a MySQL database using Docker and MySQL Workbench.</b>
+<b>[SQL with Python](https://github.com/andrew-disario/sql-with-python)</b> 
+- Work with database tables using Python, Pandas and SQL.
+- Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy
 
->Uses Docker, MySQL Workbench, SQL, and Terminal commands
-
-<h3><a href="https://github.com/andrew-disario/sql-with-python">SQL with Python</a></h3>  
-
-<b>Work with database tables using Python, Pandas and SQL.</b>
-
->Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy
-
-<h3>Archived Projects</h3>  
-
+<b>Archived Projects</b>  
 - [Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/) 
 - ["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)
 - [Fourier Transformation](https://github.com/andrew-disario/fourier-transformation) 
