@@ -17,19 +17,14 @@
 
 >Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy
 
-<h3>Archived Projects</h3>  
+<b>Archived Projects</b>  
 
-<b>[Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/) </b>
-
-<b>["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)</b>
-
-<b>[Fourier Transformation](https://github.com/andrew-disario/fourier-transformation) </b>
-
-<b>[Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)</b>
-
-<b>[Data Visualization](https://github.com/andrew-disario/data-visualization)</b>
-
-<b>["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails) </b>
+- [Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/) 
+- ["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)
+- [Fourier Transformation](https://github.com/andrew-disario/fourier-transformation) 
+- [Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)
+- [Data Visualization](https://github.com/andrew-disario/data-visualization)
+- ["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails) 
 
 
 
