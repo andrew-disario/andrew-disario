@@ -7,6 +7,8 @@
 Use data observability tools that apply machine learning to identify unexpected changes in a dataset.
 >Uses Jupyter Notebooks, Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet
 
+<b>[📁 Project Archive](https://github.com/andrew-disario/andrew-disario/blob/main/Archived%20Projects.md)</b>
+
 <h2>🏫 Data Science Tutorials </h2>
 
 <b>[Analyze the S&P 500](https://github.com/andrew-disario/sp-500)</b>
@@ -20,16 +22,6 @@ Set up and run a MySQL database using Docker Desktop and MySQL Workbench.
 <b>[SQL and Python](https://github.com/andrew-disario/sql-with-python)</b> 
 Work with database tables using Python, Pandas and SQL.
 >Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy
-
-<h2>📁 Archived Projects </h2>
-
-<b>["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)</b>  
-<b>[Fourier Transformation](https://github.com/andrew-disario/fourier-transformation)</b>  
-<b>[Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)</b>  
-<b>[Data Visualization](https://github.com/andrew-disario/data-visualization)</b>  
-<b>["Heads or Tails?"](https://github.com/andrew-disario/heads-or-tails)</b>  
-
-
 
 <h2>🏆 Certifications and Credentials </h2>
 
