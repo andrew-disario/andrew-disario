@@ -7,8 +7,8 @@
 Use data observability tools that apply machine learning to identify unexpected changes in a dataset.
 >Uses Jupyter Notebooks, Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet
 
-<b>[**Project Archive**](https://github.com/andrew-disario/andrew-disario/blob/main/Archived%20Projects.md)</b>
-Collection of finished projects and exercises.
+<b>[***Project Archives***](https://github.com/andrew-disario/andrew-disario/blob/main/Archived%20Projects.md)</b> Collection of previous projects.
+
 
 <h2>🏫 Data Science Tutorials </h2>
 
