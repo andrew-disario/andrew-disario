@@ -13,13 +13,13 @@
 - Work with database tables using Python, Pandas and SQL.
 - Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy
 
-<b>Archived Projects</b>  
-- [Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/) 
-- ["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)
-- [Fourier Transformation](https://github.com/andrew-disario/fourier-transformation) 
-- [Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)
-- [Data Visualization](https://github.com/andrew-disario/data-visualization)
-- ["Heads or Tails"](https://github.com/andrew-disario/heads-or-tails) 
+<b>[Archived Projects](https://github.com/andrew-disario/andrew-disario/blob/main/Archived%20Projects.md)</b>  
+- Anomaly Detection Model
+- "Is Congress Getting Older?"
+- Fourier Transformation 
+- Alcohol and Marijuana Study
+- Data Visualization
+- "Heads or Tails" 
 
 
 
