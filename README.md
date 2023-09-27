@@ -17,7 +17,7 @@
 
 >Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy
 
-<b>Archived Projects</b>  
+<h3>Archived Projects</h3>  
 
 - [Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/) 
 - ["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)
