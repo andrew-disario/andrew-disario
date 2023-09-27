@@ -21,12 +21,13 @@
 - Work with database tables using Python, Pandas and SQL.
 - Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy
 
-<b>[Archived Projects](https://github.com/andrew-disario/andrew-disario/blob/main/Archived%20Projects.md)</b>  
-- "Is Congress Getting Older?"
-- Fourier Transformation 
-- Alcohol and Marijuana Study
-- Data Visualization
-- "Heads or Tails?" 
+<h2>📁 Archived Projects </h2>
+
+- <b>["Is Congress Getting Older?"](https://github.com/andrew-disario/is-congress-getting-older)</b>  
+- <b>[Fourier Transformation](https://github.com/andrew-disario/fourier-transformation)</b>  
+- <b>[Alcohol and Marijuana Study](https://github.com/andrew-disario/alcohol-and-marijuana-study)</b>  
+- <b>[Data Visualization](https://github.com/andrew-disario/data-visualization)</b>  
+- <b>["Heads or Tails?"](https://github.com/andrew-disario/heads-or-tails)</b>  
 
 
 
