@@ -17,7 +17,7 @@
 > Uses Docker, MySQL Workbench, SQL and Bash.
 
 <b>[Work with Data Tables in Python with Pandas and SQLAlchemy](https://github.com/andrew-disario/sql-with-python)</b> 
-</br>Work with database tables using Python, Pandas and SQL.
+</br>Work with database tables using Python, Pandas, SQLAlchemy and SQL.
 > Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy.
 
 <b>[Analyze the S&P 500 with FRED, Python, Pandas and Matplotlib](https://github.com/andrew-disario/sp-500)</b>
