@@ -3,24 +3,24 @@
 
 <h2>💻 Data Science Projects </h2>
 
-<b>[***"Anomaly Detection Model"***](https://github.com/andrew-disario/sp-500)</b>
+<b>[Anomaly Detection Model](https://github.com/andrew-disario/sp-500)</b>
 </br>Use data observability tools that apply machine learning to identify unexpected changes in a dataset.
 >Uses Jupyter Notebooks, Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet.
 
-<b>[***Project Archives***](https://github.com/andrew-disario/andrew-disario/blob/main/Archived%20Projects.md)</b> 
+<b>[Project Archives](https://github.com/andrew-disario/andrew-disario/blob/main/Archived%20Projects.md)</b> 
 </br>Includes previous, completed projects.
 
 <h2>🏫 Data Science Tutorials </h2>
 
-<b>[***"Docker Database"***](https://github.com/andrew-disario/docker-database)</b>
+<b>[Set Up a Database with Docker and MySQL Workbench](https://github.com/andrew-disario/docker-database)</b>
 </br>Set up and run a MySQL database using Docker Desktop and MySQL Workbench.
 > Uses Docker, MySQL Workbench, SQL and Bash.
 
-<b>[***"SQL and Python"***](https://github.com/andrew-disario/sql-with-python)</b> 
+<b>[Work with Data Tables in Python with Pandas and SQLAlchemy](https://github.com/andrew-disario/sql-with-python)</b> 
 </br>Work with database tables using Python, Pandas and SQL.
 > Uses Docker, MySQL Workbench, SQL, Jupyter Notebooks, Python, Pandas and SQLAlchemy.
 
-<b>[***"Analyze the S&P 500"***](https://github.com/andrew-disario/sp-500)</b>
+<b>[Analyze the S&P 500 with FRED, Python, Pandas and Matplotlib](https://github.com/andrew-disario/sp-500)</b>
 </br>Use the Federal Reserve of Economic Data website, Python, Pandas and Matplotlib to analyze the S&P 500.
 > Uses Jupyter Notebooks, Python, Pandas, Matplotlib and Fred.
 
