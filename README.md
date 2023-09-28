@@ -50,7 +50,7 @@
 
 **Libraries** PySpark, SQLAlchemy, Prophet, FBProphet, Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Plotly and Apache Airflow
 
-**Applications** Databricks, Snowflake, Airflow, Looker, GitHub, Docker, Jupyter, MySQL Workbench, Jira and Asana
+**Applications** Databricks, Snowflake, Airflow, Looker, GitHub, Docker, Quick DBD, MySQL Workbench, Jupyter Notebooks, Jira and Asana
  
 
 
