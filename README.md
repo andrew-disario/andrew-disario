@@ -11,7 +11,7 @@
 </br>Build and design a MySQL database using Google Cloud and Quick Database Diagrams so you can create interactive dashboards with Looker Studio to model revenue and inventory data.
 >Uses Docker, Quick DBD, MySQL Workbench, Looker Studio, Google Cloud and SQL.
 
-<b>[Anomaly Detection Model](https://github.com/andrew-disario/sp-500)</b>
+<b>[Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/)</b>
 </br>Use data observability tools that apply machine learning to identify unexpected changes in a dataset.
 >Uses Jupyter Notebooks, Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet.
 
