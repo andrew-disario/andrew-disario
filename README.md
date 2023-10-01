@@ -3,21 +3,21 @@
 
 <h2>💻 Data Science Projects </h2>
 
+<b>[Mortgage Rate Anomaly Detection](https://github.com/andrew-disario/mortgage-rate-anomaly-detection)</b>
+</br>Use data observability tools that apply machine learning to identify unexpected changes in 30-year fixed-rate mortgages.
+>Uses Jupyter Notebooks, Python, Pandas, Matplotlib, Datetime, Dateutil, Plotly, FredAPI and Fbprophet.
+
 <b>[Unemployment and Participation Analysis by State](https://github.com/andrew-disario/unemployment-and-participation-analysis-by-state)</b>
 </br>Analyze state unemployment and participation rates of the United States with data from the Federal Reserve of Economic Data website.
->Uses Jupyter Notebooks, Python, Pandas, Matplotlib, Plotly, Time and Fred.
+>Uses Jupyter Notebooks, Python, Pandas, Matplotlib, Plotly, Time and FredAPI.
+
+<b>[***Archive***](https://github.com/andrew-disario/andrew-disario/blob/main/Archived%20Projects.md)</b> 
+
+<h2>🏫 Data Science Tutorials </h2>
 
 <b>[Pizza Database and Dashboards](https://github.com/andrew-disario/pizza-database-and-dashboards)</b>
 </br>Build and design a MySQL database and create interactive dashboards to model revenue and inventory data.
 >Uses Docker, Quick DBD, MySQL Workbench, Looker Studio, Google Cloud and SQL.
-
-<b>[Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/)</b>
-</br>Use data observability tools that apply machine learning to identify unexpected changes in a dataset.
->Uses Jupyter Notebooks, Python, Pandas, Matplotlib, Datetime, Plotly and Fbprophet.
-
-<b>[***Project Archives***](https://github.com/andrew-disario/andrew-disario/blob/main/Archived%20Projects.md)</b> 
-
-<h2>🏫 Data Science Tutorials </h2>
 
 <b>[Docker Database](https://github.com/andrew-disario/docker-database)</b>
 </br>Set up and run a MySQL database using Docker Desktop and MySQL Workbench.
@@ -29,7 +29,7 @@
 
 <b>[FRED Analysis](https://github.com/andrew-disario/fred-analysis)</b>
 </br>Use the Federal Reserve of Economic Data website, Python, Pandas and Matplotlib to analyze the S&P 500.
-> Uses Jupyter Notebooks, Python, Pandas, Matplotlib and Fred.
+> Uses Jupyter Notebooks, Python, Pandas, Matplotlib and FredAPI.
 
 <h2>🏆 Certifications and Credentials </h2>
 
