@@ -1,7 +1,7 @@
 <h1>Andrew DiSario <br/>
 <a href="https://www.linkedin.com/in/andrew-disario/">Data Analyst</a>
 
-<h2>💻 Data Science Projects </h2>
+<h2>💻 My Data Science Projects </h2>
 
 <b>[Mortgage Rate Anomaly Detection](https://github.com/andrew-disario/mortgage-rate-anomaly-detection)</b>
 </br>Use data observability tools that apply machine learning to identify unexpected changes in 30-year fixed-rate mortgages.
@@ -13,7 +13,7 @@
 
 <b>[***Archive***](https://github.com/andrew-disario/andrew-disario/blob/main/Archived%20Projects.md)</b> 
 
-<h2>🏫 Data Science Tutorials </h2>
+<h2>🏫 My Data Science Tutorials </h2>
 
 <b>[Pizza Database and Dashboards](https://github.com/andrew-disario/pizza-database-and-dashboards)</b>
 </br>Build and design a MySQL database and create interactive dashboards to model revenue and inventory data.
@@ -31,7 +31,7 @@
 </br>Use the Federal Reserve of Economic Data website, Python, Pandas and Matplotlib to analyze the S&P 500.
 > Uses Jupyter Notebooks, Python, Pandas, Matplotlib and FredAPI.
 
-<h2>🏆 Certifications and Credentials </h2>
+<h2>🏆 My Certifications and Credentials </h2>
 
 <b> Databricks Academy </b>
 - [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/e222513d-37e7-47f3-af43-9b12641fdea7)
@@ -48,7 +48,7 @@
   
 
 
-<h2>🎓 Proficiencies </h2>
+<h2>🎓 My Proficiencies </h2>
 
 **Languages** Python, SQL, LookML and Git
 
@@ -58,7 +58,7 @@
  
 
 
-<h2>📱 Connect with me </h2>
+<h2>📱 Connect With Me! </h2>
 
 [<img align="left" alt="Andrew DiSario | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Andrew DiSario | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
