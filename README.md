@@ -15,7 +15,7 @@
 
 <h2>🏫 My Data Science Tutorials </h2>
 
-<b>[Pizza Database and Dashboards](https://github.com/andrew-disario/pizza-database-and-dashboards)</b>
+<b>[From Database to Dashboards](https://github.com/andrew-disario/from-database-to-dashboards)</b>
 </br>Build and design a MySQL database and create interactive dashboards to model revenue and inventory data.
 >Uses Docker, Quick DBD, MySQL Workbench, Looker Studio, Google Cloud and SQL.
 
