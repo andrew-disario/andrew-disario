@@ -3,7 +3,7 @@
 
 <h2>💻 Data Science Projects </h2>
 
-<b>[Economic Data Analysis](https://github.com/andrew-disario/economic-data-analysis)</b>
+<b>[Unemployment and Participation Analysis by State](https://github.com/andrew-disario/unemployment-and-participation-analysis-by-state)</b>
 </br>Analyze state unemployment and participation rates of the United States with data from the Federal Reserve of Economic Data website.
 >Uses Jupyter Notebooks, Python, Pandas, Matplotlib, Plotly, Time and Fred.
 
