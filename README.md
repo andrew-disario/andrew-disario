@@ -8,7 +8,7 @@
 >Uses Jupyter Notebooks, Python, Pandas, Matplotlib, Plotly, Time and Fred.
 
 <b>[Pizza Database and Dashboards](https://github.com/andrew-disario/pizza-database-and-dashboards)</b>
-</br>Build and design a MySQL database using Google Cloud and Quick Database Diagrams so you can create interactive dashboards with Looker Studio to model revenue and inventory data.
+</br>Build and design a MySQL database and create interactive dashboards to model revenue and inventory data.
 >Uses Docker, Quick DBD, MySQL Workbench, Looker Studio, Google Cloud and SQL.
 
 <b>[Anomaly Detection Model](https://github.com/andrew-disario/anomaly-detction-model/)</b>
