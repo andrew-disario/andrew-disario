@@ -17,7 +17,7 @@
 
 <b>[From Database to Dashboards](https://github.com/andrew-disario/from-database-to-dashboards)</b>
 </br>Build and design a MySQL database and create interactive dashboards to model revenue and inventory data.
->Uses Docker, Quick DBD, MySQL Workbench, Looker Studio, Google Cloud and SQL.
+>Uses Docker, Quick DBD, MySQL Workbench, Looker Studio, Google Cloud Console and SQL.
 
 <b>[Docker Database](https://github.com/andrew-disario/docker-database)</b>
 </br>Set up and run a MySQL database using Docker Desktop and MySQL Workbench.
