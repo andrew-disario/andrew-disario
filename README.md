@@ -50,11 +50,11 @@
 
 <h2>🎓 My Proficiencies </h2>
 
-**Languages** Python, SQL, LookML and Git
+**Languages** Python, SQL, LookML
 
-**Libraries** PySpark, SQLAlchemy, Prophet, FBProphet, Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Plotly and Apache Airflow
+**Libraries** PySpark, SQLAlchemy, Prophet, FBProphet, Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Plotly, Apache Airflow
 
-**Applications** Databricks, Snowflake, Airflow, GitHub, Docker, Quick DBD, MySQL Workbench, Jupyter Notebooks, Google Cloud Console, Looker and Looker Studio
+**Applications** Databricks, Snowflake, Airflow, GitHub, Docker, Quick DBD, MySQL Workbench, Jupyter Notebooks, Google Cloud Console, Looker
  
 
 
